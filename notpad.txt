@@ -1,2 +1,8 @@
 hai
 this is my first assignment
+
+git push
+https://drive.google.com/file/d/12MhvovJMG1xoQaNtKmjHgfABnv_rQe16/view?usp=drivesdk
+
+git bash
+https://drive.google.com/file/d/12aF1aElRrudWJb311tRqGa6Mfo6clJf5/view
